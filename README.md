@@ -1,3 +1,3 @@
 # Hello-world
 my first repository 
-i love: :chocolate: :ice cream:
+i love: 🥛 🌞 ,and :ice_cream:
